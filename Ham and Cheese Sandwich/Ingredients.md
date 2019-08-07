@@ -2,4 +2,5 @@
 - Butter
 - Ham
 - Cheese
+- Salt
 - Pepper
