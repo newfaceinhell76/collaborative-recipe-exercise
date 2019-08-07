@@ -1,0 +1,4 @@
+- Spread butter on bread
+- Add ham
+- Add cheese
+- Put bread together with ham and cheese inside
